@@ -1,0 +1,14 @@
+nav {
+    
+}
+
+.gallery_image {
+    height: 350px;
+    width: 350px;
+}
+
+.card {
+    float: right;
+    padding-left: 20px;
+    padding-right: 20px;
+}

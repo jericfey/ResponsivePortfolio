@@ -13,4 +13,5 @@ Usage:
     - Use Bootstrap grid system
     - Use Bootstrap for sticky footer
 
+    Media queries for 992, 768, 400 screen size break points
     
