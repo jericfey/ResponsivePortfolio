@@ -21,11 +21,22 @@ nav {
     /* font: Calibri;  */
 }
 
+/* Contact Page Form */
+.form-control{
+
+}
+ 
+.form-group label{
+    font:bold;
+}
+
+/* Provile Page Gallery */
 .gallery_image {
     height: 350px;
     width: 350px;
 }
 
+/* About Page Card */
 .card {
     float: right;
     padding-left: 20px;
