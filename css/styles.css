@@ -19,6 +19,7 @@ body, html {
 nav {
     /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
     /* font: Calibri;  */
+    /* text-align: right; */
 }
 
 /* Contact Page Form */
@@ -26,11 +27,12 @@ nav {
 
 }
  
+/* Can I make the form labels bold?  */
 .form-group label{
     font:bold;
 }
 
-/* Provile Page Gallery */
+/* Profile Page Gallery */
 .gallery_image {
     height: 350px;
     width: 350px;
