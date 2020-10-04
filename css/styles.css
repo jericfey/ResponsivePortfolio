@@ -10,7 +10,7 @@ overflow-x: hidden;
   /* Full height */
   height: 100%; 
 
-  /* Center and scale the image nicely */
+  /* Center and scale the image */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -22,21 +22,3 @@ overflow-x: hidden;
             background-color: #cccccc;
             background-image: radial-gradient(Blue, purple);
         }
-
-
-/* Contact Page Form */
-.form-control{
-
-}
- 
-/* Can I make the form labels bold?  */
-.form-group label{
-    font:bold;
-}
-
-/* About Page Card */
-.container {
-    float: right;
-    padding-left: 20px;
-    padding-right: 20px;
-}
