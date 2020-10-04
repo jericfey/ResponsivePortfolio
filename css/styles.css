@@ -6,7 +6,7 @@ body, html {
 .bg { 
   /* The image used */
   background-image: url("../images/SouthPole_bg.jpg");
-overvlow-x: hidden;
+overflow-x: hidden;
   /* Full height */
   height: 100%; 
 
@@ -32,12 +32,6 @@ overvlow-x: hidden;
 /* Can I make the form labels bold?  */
 .form-group label{
     font:bold;
-}
-
-/* Profile Page Gallery */
-.gallery_image {
-    height: 350px;
-    width: 350px;
 }
 
 /* About Page Card */
