@@ -5,8 +5,8 @@ body, html {
 
 .bg { 
   /* The image used */
-  background-image: url("https://github.com/jericfey/ResponsivePortfolio/blob/master/images/pics255.jpg?raw=true");
-
+  background-image: url("pics255.jpg");
+overvlow-x: hidden;
   /* Full height */
   height: 100%; 
 
@@ -16,6 +16,12 @@ body, html {
   background-size: cover;
 }
 
+/* footer gradiant */
+#grad1 {
+            height: 50px;
+            background-color: #cccccc;
+            background-image: radial-gradient(Blue, purple);
+        }
 
 
 /* Contact Page Form */
