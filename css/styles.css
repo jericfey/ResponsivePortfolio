@@ -5,7 +5,7 @@ body, html {
 
 .bg { 
   /* The image used */
-  background-image: url("pics255.jpg");
+  background-image: url("../images/pics255.jpg");
 overvlow-x: hidden;
   /* Full height */
   height: 100%; 
