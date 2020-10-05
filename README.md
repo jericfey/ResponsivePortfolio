@@ -21,10 +21,17 @@ Usage:
   - I had some fun with a gradiant footer as well
 
 
+<<<<<<< HEAD
 ![AboutMe Screenshot](./images/Website_screenshot_AboutMe.jpg)
 ![AboutMe Responsive Screenshot](./images/Website_screenshot_AboutMe_Responsive.jpg)
 ![Portfolio Screenshot](./images/Website_screenshot_Portfolio.jpg)
 ![Contact Screenshot](./images/Website_screenshot_Contact.jpg)
+=======
+![Website Screenshot](.images/Website_screenshot_AboutMe.jpg?raw=true)
+![Website Screenshot](.images/Website_screenshot_AboutMe_Responsive.jpg?raw=true)
+![Website Screenshot](.images/Website_screenshot_Portfolio.jpg?raw=true)
+![Website Screenshot](.images/Website_screenshot_Contact.jpg?raw=true)
+>>>>>>> 81781c8b02cc6b5c81f3f8230a4c81ccdd1b6248
 
     
     
