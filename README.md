@@ -16,5 +16,15 @@ Usage:
  - Use Bootstrap grid system
  - Use Bootstrap for sticky footer
 
+ Additions: 
+  - I wanted to use a carousel feature on the Portfolio page and didn't want the images borded with a different color
+  - I had some fun with a gradiant footer as well
+
+
+![Website Screenshot](./Website_screenshot_AboutMe.jpg)
+![Website Screenshot](./Website_screenshot_AboutMe_Responsive.jpg)
+![Website Screenshot](./Website_screenshot_Portfolio.jpg)
+![Website Screenshot](./Website_screenshot_Contact.jpg)
+
     
     
