@@ -21,10 +21,10 @@ Usage:
   - I had some fun with a gradiant footer as well
 
 
-![Website Screenshot](.images/Website_screenshot_AboutMe.jpg)
-![Website Screenshot](.images/Website_screenshot_AboutMe_Responsive.jpg)
-![Website Screenshot](.images/Website_screenshot_Portfolio.jpg)
-![Website Screenshot](.images/Website_screenshot_Contact.jpg)
+![Website Screenshot](.images/Website_screenshot_AboutMe.jpg?raw=true)
+![Website Screenshot](.images/Website_screenshot_AboutMe_Responsive.jpg?raw=true)
+![Website Screenshot](.images/Website_screenshot_Portfolio.jpg?raw=true)
+![Website Screenshot](.images/Website_screenshot_Contact.jpg?raw=true)
 
     
     
