@@ -1,3 +1,7 @@
+p {
+  font-size: 24px;
+}
+
 /* responsive background image */
 body, html {
   height: 100%;
@@ -22,3 +26,5 @@ overflow-x: hidden;
             background-color: #cccccc;
             background-image: radial-gradient(Blue, purple);
         }
+
+
