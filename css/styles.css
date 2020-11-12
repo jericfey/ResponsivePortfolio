@@ -21,9 +21,14 @@ html {
   background-size: cover;
 }
 
-.navbar-light,
-.navbar-brand {
+nav {
+  position: relative;
+  z-index: 5;
+}
+
+#navbar {
   color: white;
+  text-shadow:5px 5px 10px black;
 }
 .contact-form {
   margin-top: 100px;
@@ -43,4 +48,11 @@ html {
 
 .btn-footer {
   font-size: 3rem;
+  text-shadow:5px 5px 10px black;
+}
+
+@media only screen and (max-width: 770px) {
+  #navbar {
+    color: black;
+  }
 }
