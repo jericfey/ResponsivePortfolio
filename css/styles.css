@@ -21,6 +21,10 @@ html {
   background-size: cover;
 }
 
+.navbar-light,
+.navbar-brand {
+  color: white;
+}
 .contact-form {
   margin-top: 100px;
 }
@@ -34,6 +38,7 @@ html {
   height: 75px;
   background-color: #cccccc;
   background-image: radial-gradient(Blue, purple);
+  color: white;
 }
 
 .btn-footer {
