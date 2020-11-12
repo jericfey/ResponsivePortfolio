@@ -29,5 +29,7 @@ $(document).ready(function () {
     }
   }, 7000);
 
-  
+  $("#welcome").click(function () {
+    window.location = "./about.html";
+  });
 });
