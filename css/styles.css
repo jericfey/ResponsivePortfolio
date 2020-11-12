@@ -28,7 +28,7 @@ nav {
 
 #navbar {
   color: white;
-  text-shadow:5px 5px 10px black;
+  text-shadow: 5px 5px 10px black;
 }
 .contact-form {
   margin-top: 100px;
@@ -48,7 +48,7 @@ nav {
 
 .btn-footer {
   font-size: 3rem;
-  text-shadow:5px 5px 10px black;
+  text-shadow: 5px 5px 10px black;
 }
 
 @media only screen and (max-width: 770px) {
