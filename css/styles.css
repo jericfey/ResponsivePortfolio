@@ -43,6 +43,18 @@ nav {
   margin-top: 100px;
 }
 
+h2 {
+  display: inline;
+  margin: 0;
+  
+}
+#resume {
+  float: right;
+  display: inline-flex;
+  width: 80px;
+  padding-left: ;
+}
+
 /* footer gradiant */
 #grad1 {
   height: 75px;
