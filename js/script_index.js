@@ -27,7 +27,7 @@ $(document).ready(function () {
         elem.style.left = pos + "px";
       }
     }
-  }, 3000);
+  }, 7000);
 
   $("#welcome").click(function () {
     window.location = "./about.html";
