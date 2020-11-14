@@ -9,7 +9,7 @@ $(document).ready(function () {
     $("#welcome").show(3000, function () {
       $("#welcome").hide();
     });
-  }, 5000);
+  }, 2000);
 
   hideWelcome();
 
@@ -37,5 +37,4 @@ $(document).ready(function () {
     // console.log("resume clicked");
     window.open("/assets/Jeri_Fey_2020.pdf");
   });
-  
 });
