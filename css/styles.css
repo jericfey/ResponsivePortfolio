@@ -27,7 +27,7 @@ html {
 }
 
 nav {
-  position: relative;
+  /* position: relative; */
   z-index: 5;
 }
 
