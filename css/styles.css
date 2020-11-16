@@ -71,6 +71,10 @@ nav {
   text-align: center;
 }
 
+form {
+  text-align: center;
+}
+
 @media only screen and (max-width: 770px) {
   #navbar {
     color: black;
